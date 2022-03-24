@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `おおのBlog `,
+    title: `おおのDevelopmentBlog `,
     author: {
       name: `おおの`,
-      summary: `川崎在住。これからRailsエンジニア`,
+      summary: `Web developer/これからRailsエンジニア.`,
     },
-    description: `おおののデベロッパーブログ`,
+    description: `おおのの技術他ブログ`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `ohno_hope3`,
