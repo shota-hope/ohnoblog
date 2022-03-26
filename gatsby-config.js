@@ -3,12 +3,13 @@ module.exports = {
     title: `おおのの日記 `,
     author: {
       name: `おおの`,
-      summary: `Web developer/これからRailsエンジニア.`,
+      summary: `これからWeb developer`,
     },
     description: `おおののエンジニアとしてのブログ`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `ohno_hope3`,
+      github: `shota_hope`,
     },
   },
   plugins: [
