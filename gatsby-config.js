@@ -6,12 +6,13 @@ module.exports = {
       summary: `これからWeb developer`,
     },
     description: `おおののエンジニアとしてのブログ`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://ohnoblog.vercel.app/`,
     social: {
       twitter: `ohno_hope3`,
     },
   },
   plugins: [
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
