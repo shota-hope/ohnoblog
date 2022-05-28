@@ -7,7 +7,9 @@ description: "Railsチュートリアルの4章の解説動画を復習をして
 ## はじめに
 
 Railsチュートリアルの4章の解説動画を復習をしてRuby、Railsで用意されているメソッドの確認をしていきます。
-※全ては網羅しません
+
+※全ては網羅していません
+
 Webテキストの購入者は4章の解説動画だけお試しで見れるらしいので是非確認してみてください。
 
 [https://note.com/yasslab/n/n7a72ec68d797](https://note.com/yasslab/n/n7a72ec68d797)
