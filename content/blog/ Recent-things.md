@@ -15,7 +15,7 @@ GW前後で求人動きにぶくなるということもあり、三週間くら
 
 ### RUNTEQカリキュラム復習
 
-卒業したプログラミングスクールのカリキュラム、入門ステップ、基礎ステップ総復習テストをを使って知識を復習。
+卒業したプログラミングスクールのカリキュラム、入門ステップ、基礎ステップ総復習テストを使って知識を復習。
 
 ### [スッキリわかるSQL入門]([https://book.impress.co.jp/books/1121101090](https://book.impress.co.jp/books/1121101090))　書籍
 
@@ -23,7 +23,7 @@ SQLが苦手意識あったので、買ったけどやっていなかった本�
 
 全然おもしろくない。。笑
 
-その後Udemyに手を出すのであった。
+そしていまいち理解度が良くなく、その後Udemyに手を出すのであった。
 
 ### Udemy はじめてのデータベース設計と3時間で学ぶSQL
 
@@ -53,7 +53,7 @@ SQL
 
 ### **Everyday Rails - RSpecによるRailsテスト入門**
 
-ポートフォリオのRSpecでテストを書くためにこちらで復習。
+[ポートフォリオ](https://www.napolipizza-club.com/)にRSpecでテストを書くためにこちらで復習。
 
 9章以降未読。
 
@@ -87,7 +87,7 @@ JSとTailwindCSSを使いました。
 
 ### **[ガチで学びたい人のためのJavaScriptメカニズム](https://www.udemy.com/course/javascript-essence/)**
 
-ずっと昔にセールで勝ったUdemyでJavaScriptの復習。
+ずっと昔にセールで買ったUdemyでJavaScriptの復習。
 
 途中から難しくて、とりあえず流し見して頭にかすかな記憶インデックスを作っておきました。
 
@@ -98,6 +98,7 @@ JSとTailwindCSSを使いました。
 面接してもらった企業がフロントを主にVueで書くから勉強しておくといいかも。と言われ勉強開始。新しいことを学習するワクワク感はいいですね。（簡単な最初のうちは特に）
 
 サクッと終わらせて、お祈りされたのでやっぱReactの時代でしょと思い込む。
+https://www.amazon.co.jp/dp/B089LDYFV1/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 
 ### **[モダンJavaScriptの基礎から始める挫折しないためのReact入門](https://www.udemy.com/course/modern_javascipt_react_beginner/)**
 
@@ -110,3 +111,4 @@ JSとTailwindCSSを使いました。
 以上です。
 
 ということで直近ではフロントの勉強しつつ、テーブル設計についてもっと理解を深めようと思います！
+楽々ERDレッスンという本が気になっています！
