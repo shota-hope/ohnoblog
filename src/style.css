@@ -79,7 +79,8 @@ html {
 }
 
 body {
-  font-family: var(--font-body);
+  /* font-family: var(--font-body); */
+  font-family: "Noto Sans JP", sans-serif;
   font-size: var(--fontSize-1);
   color: var(--color-text);
 }
@@ -119,7 +120,7 @@ h6 {
 }
 
 h1 {
-  font-weight: var(--fontWeight-black);
+  font-weight: var(--fontWeight-bold);
   font-size: var(--fontSize-6);
   color: var(--color-heading-black);
 }

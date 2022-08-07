@@ -3,7 +3,7 @@ module.exports = {
     title: `おおのの日記 `,
     author: {
       name: `おおの`,
-      summary: `これからWeb developer`,
+      summary: `SalesTechのスタートアップでWebエンジニア`,
     },
     description: `おおののエンジニアとしてのブログ`,
     siteUrl: `https://ohnoblog.vercel.app/`,

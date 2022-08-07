@@ -15,5 +15,10 @@ Reactに興味があったので雰囲気が分かるかなと思ってGatsby.js
 - 2021年7月よりRUNTEQ入学
 - 個人開発『真のナポリピッツァ部』リリース https://www.napolipizza-club.com/
 - Qiita記事はこちら https://qiita.com/ohno_hope/items/6be015ed3c9c78406b93
+- 2022年7月1日よりWebエンジニア
 
-(現状書くことが少ないですが書けること増やしていきます!)
+### エンジニアになりました
+2022/７/1からSalesTechスタートアップでエンジニアとして働いてます。<br>
+仕事についていけるように毎日勉強します。。
+
+使用技術 Rails/React/TypeScript/GraphQL/etc...
